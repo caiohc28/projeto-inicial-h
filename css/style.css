@@ -44,3 +44,8 @@ p {
     color: green;
 }
 
+form button {
+    background-color: cyan;
+    font-style: white;
+}
+
