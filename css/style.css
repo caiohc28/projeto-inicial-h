@@ -16,7 +16,7 @@ h1 {
 }
 
 header {
-    background-color: blue;
+    background-color: cyan;
 }
 
 h1, h2 {
@@ -25,4 +25,17 @@ h1, h2 {
 
 nav {
     font-weight: bolder;
+}
+
+.container {
+    padding: 20px;
+}
+
+section#conteudo {
+    line-height: 1.5;
+}
+
+form {
+    border: 1px gray;
+    padding: 10px;
 }
