@@ -49,3 +49,6 @@ form button {
     font-style: white;
 }
 
+footer {
+    border-top: 2px solid red;
+}
